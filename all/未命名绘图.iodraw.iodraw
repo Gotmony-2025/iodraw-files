@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-0" value="220V电源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="193" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YUcO2VNgzgtvB2xjLfs_-1" target="YUcO2VNgzgtvB2xjLfs_-3">
           <mxGeometry relative="1" as="geometry" />
@@ -17,22 +17,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-1" value="LED柜体灯带驱动器&lt;div&gt;60w=40个&lt;/div&gt;&lt;div&gt;100w=20个&lt;/div&gt;&lt;div&gt;200w=10个&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="393" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YUcO2VNgzgtvB2xjLfs_-3" target="YUcO2VNgzgtvB2xjLfs_-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-3" value="快捷连接线&lt;div&gt;若干&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="593" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-5" value="LED柔性灯带中性光&lt;div&gt;规格：5*10&lt;br&gt;&lt;div&gt;500米&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="793" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-7" value="集控触摸开关50个&lt;div&gt;集控人体感应开关20个&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="220" width="140" height="60" as="geometry" />
+          <mxGeometry x="383" y="279" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-9" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#D7230F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="190" width="610" height="280" as="geometry" />
+          <mxGeometry x="353" y="249" width="610" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
