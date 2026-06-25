@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="YUcO2VNgzgtvB2xjLfs_-9" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#D7230F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="348" y="246" width="610" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YUcO2VNgzgtvB2xjLfs_-0" target="YUcO2VNgzgtvB2xjLfs_-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -30,9 +33,6 @@
         </mxCell>
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-7" value="集控触摸开关50个&lt;div&gt;集控人体感应开关20个&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="383" y="279" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YUcO2VNgzgtvB2xjLfs_-9" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#D7230F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="348" y="246" width="610" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
