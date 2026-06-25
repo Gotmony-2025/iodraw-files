@@ -22,7 +22,7 @@
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-3" value="连接线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YUcO2VNgzgtvB2xjLfs_-5" value="LED柔性灯带中性光" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YUcO2VNgzgtvB2xjLfs_-5" value="LED柔性灯带中性光&lt;div&gt;规格：5*10&lt;br&gt;&lt;div&gt;500米&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
