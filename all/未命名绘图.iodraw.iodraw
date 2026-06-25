@@ -31,8 +31,8 @@
         <mxCell id="YUcO2VNgzgtvB2xjLfs_-7" value="集控触摸开关50个&lt;div&gt;集控人体感应开关20个&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="220" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YUcO2VNgzgtvB2xjLfs_-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="190" width="330" height="330" as="geometry" />
+        <mxCell id="YUcO2VNgzgtvB2xjLfs_-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="190" width="610" height="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
