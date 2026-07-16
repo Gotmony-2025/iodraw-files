@@ -197,7 +197,7 @@
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="scIHF0ghyBfTpFaUqiPM-25" target="IUhcc6Z56Rzezg3WKJFh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry x="980" y="30" width="630" height="250" as="geometry" />
         </mxCell>
         <mxCell id="NYzqBl5BG8z7ZOTjlOmk-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
