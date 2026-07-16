@@ -133,8 +133,8 @@
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.copier;" vertex="1" parent="1">
           <mxGeometry x="560" y="510" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IUhcc6Z56Rzezg3WKJFh-9" value="负1楼3号库房" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="544" y="72" width="60" height="30" as="geometry" />
+        <mxCell id="IUhcc6Z56Rzezg3WKJFh-9" value="库管电脑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="600" y="62" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
