@@ -229,7 +229,7 @@
         <mxCell id="_HG-l6Gan8gQg0eftMSn-184" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;b&gt;Switch&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-55" y="251" width="101" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-185" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;b&gt;Router&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-185" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;b&gt;TL-ER3200G&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="312" y="164" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-186" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;b&gt;Optical modem&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
