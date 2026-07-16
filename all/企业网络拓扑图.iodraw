@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="-eeF4dPnX65M_ghFCyeH" name="Page-1">
-    <mxGraphModel dx="1018" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="488" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,9 @@
         <mxCell id="scIHF0ghyBfTpFaUqiPM-14" value="Internet" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#080808;" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="scIHF0ghyBfTpFaUqiPM-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="scIHF0ghyBfTpFaUqiPM-17" target="scIHF0ghyBfTpFaUqiPM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-17" value="Optical modem" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" vertex="1" parent="1">
           <mxGeometry x="170" y="390" width="100" height="30" as="geometry" />
         </mxCell>
@@ -28,7 +31,7 @@
           <mxGeometry x="170" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-20" value="Router" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.load_balancer;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="350" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
