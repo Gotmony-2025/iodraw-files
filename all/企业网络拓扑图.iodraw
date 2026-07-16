@@ -96,7 +96,7 @@
           <mxGeometry x="294.15999999999997" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-48" value="售楼部2楼" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="304.15999999999997" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="374" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
