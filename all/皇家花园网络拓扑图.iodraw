@@ -309,7 +309,7 @@
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-46" value="RoyalGarden" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry x="500" width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
