@@ -166,14 +166,14 @@
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IUhcc6Z56Rzezg3WKJFh-16" target="IUhcc6Z56Rzezg3WKJFh-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IUhcc6Z56Rzezg3WKJFh-28" value="1楼&lt;div&gt;售楼部2楼AP&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+        <mxCell id="IUhcc6Z56Rzezg3WKJFh-28" value="9楼&lt;div&gt;1单元AP&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="879.46" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-29" value="9楼&lt;div&gt;2单元AP&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="796.44" y="690" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IUhcc6Z56Rzezg3WKJFh-30" value="2楼&lt;div&gt;售楼部1楼AP&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="970" y="690" width="62.09" height="30" as="geometry" />
+        <mxCell id="IUhcc6Z56Rzezg3WKJFh-30" value="9楼&lt;div&gt;办公室打印机&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="970" y="690" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
