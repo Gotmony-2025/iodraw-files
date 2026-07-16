@@ -8,33 +8,33 @@
           <mxGeometry x="620" y="170" width="470" height="370" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ISP&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=11;" parent="1" vertex="1">
-          <mxGeometry y="220" width="260" height="290" as="geometry" />
+          <mxGeometry x="30" y="30" width="260" height="290" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="scIHF0ghyBfTpFaUqiPM-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="265.0000000000001" as="targetPoint" />
+            <mxPoint x="170" y="75.00000000000011" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-13" value="Internet" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#080808;" parent="1" vertex="1">
-          <mxGeometry x="10" y="240" width="90" height="50" as="geometry" />
+          <mxGeometry x="40" y="50" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="scIHF0ghyBfTpFaUqiPM-14" target="scIHF0ghyBfTpFaUqiPM-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-14" value="Internet" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#080808;" parent="1" vertex="1">
-          <mxGeometry x="10" y="430" width="90" height="50" as="geometry" />
+          <mxGeometry x="40" y="240" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="scIHF0ghyBfTpFaUqiPM-17" target="scIHF0ghyBfTpFaUqiPM-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-17" value="Optical modem" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" parent="1" vertex="1">
-          <mxGeometry x="140" y="440" width="100" height="30" as="geometry" />
+          <mxGeometry x="170" y="250" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="scIHF0ghyBfTpFaUqiPM-19" target="scIHF0ghyBfTpFaUqiPM-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-19" value="Optical modem" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" parent="1" vertex="1">
-          <mxGeometry x="140" y="250" width="100" height="30" as="geometry" />
+          <mxGeometry x="170" y="60" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="scIHF0ghyBfTpFaUqiPM-20" target="scIHF0ghyBfTpFaUqiPM-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-20" value="TL-ER3200G-1F" style="fontColor=#0066CC;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.load_balancer;" parent="1" vertex="1">
-          <mxGeometry x="270" y="350" width="100" height="30" as="geometry" />
+          <mxGeometry x="300" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="scIHF0ghyBfTpFaUqiPM-23" target="scIHF0ghyBfTpFaUqiPM-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
