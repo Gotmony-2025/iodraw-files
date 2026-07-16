@@ -150,7 +150,7 @@
           <mxGeometry x="195.06" y="618.5" width="65.71" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.printer;" vertex="1" parent="1">
-          <mxGeometry x="460" y="610" width="40" height="48.5" as="geometry" />
+          <mxGeometry x="450" y="610" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-16" value="TL-SG2008MP-1F" style="fontColor=#0066CC;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
           <mxGeometry x="480" y="430" width="100" height="30" as="geometry" />
