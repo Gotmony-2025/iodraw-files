@@ -197,198 +197,201 @@
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="scIHF0ghyBfTpFaUqiPM-25" target="IUhcc6Z56Rzezg3WKJFh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Lucida Console;fontSize=13;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Lucida Console;fontSize=13;whiteSpace=wrap;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="980" y="30" width="610" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;whiteSpace=wrap;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
           <mxGeometry width="610" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-3" value="VLAN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-3" value="VLAN" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
           <mxGeometry width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-4" value="用途" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-4" value="用途" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
           <mxGeometry x="60" width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-5" value="网段" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-5" value="网段" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
           <mxGeometry x="120" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-6" value="接入方式" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-6" value="接入方式" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
           <mxGeometry x="250" width="70" height="50" as="geometry">
             <mxRectangle width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-7" value="可用IP数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-7" value="可用IP数" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
           <mxGeometry x="320" width="40" height="50" as="geometry">
             <mxRectangle width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-8" value="说明" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-8" value="说明" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
           <mxGeometry x="360" width="140" height="50" as="geometry">
             <mxRectangle width="140" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-44" value="SSID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-44" value="SSID" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-2">
           <mxGeometry x="500" width="110" height="50" as="geometry">
             <mxRectangle width="110" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;whiteSpace=wrap;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
           <mxGeometry y="50" width="610" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-10" value="VLAN 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-10" value="VLAN 1" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
           <mxGeometry width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-11" value="设备管理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-11" value="设备管理" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
           <mxGeometry x="60" width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-12" value="192.168.1.0/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-12" value="192.168.1.0/24" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
           <mxGeometry x="120" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-13" value="LAN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-13" value="LAN" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
           <mxGeometry x="250" width="70" height="50" as="geometry">
             <mxRectangle width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-14" value="254" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-14" value="254" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
           <mxGeometry x="320" width="40" height="50" as="geometry">
             <mxRectangle width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-15" value="无外网权限，仅做设备调试和管理通道" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-15" value="无外网权限，仅做设备调试和管理通道" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
           <mxGeometry x="360" width="140" height="50" as="geometry">
             <mxRectangle width="140" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-45" value="none" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-45" value="none" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
           <mxGeometry x="500" width="110" height="50" as="geometry">
             <mxRectangle width="110" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;whiteSpace=wrap;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
           <mxGeometry y="100" width="610" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-17" value="VLAN 10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-17" value="VLAN 10" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-18" value="公司网络" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-18" value="公司网络" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry x="60" width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-19" value="192.168.10.0/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-19" value="192.168.10.0/24" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry x="120" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-20" value="LAN/SSID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-20" value="LAN/SSID" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry x="250" width="70" height="50" as="geometry">
             <mxRectangle width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-21" value="254" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-21" value="254" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry x="320" width="40" height="50" as="geometry">
             <mxRectangle width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-22" value="公司员工内部网络，不对外使用，接入打印机及展示电视" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-22" value="公司员工内部网络，不对外使用，接入打印机及展示电视" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry x="360" width="140" height="50" as="geometry">
             <mxRectangle width="140" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-46" value="RoyalGarden" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-46" value="RoyalGarden" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry x="500" width="110" height="50" as="geometry">
             <mxRectangle width="110" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;whiteSpace=wrap;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
           <mxGeometry y="150" width="610" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-24" value="VLAN 20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-24" value="VLAN 20" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
           <mxGeometry width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-25" value="访客网络" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-25" value="访客网络" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
           <mxGeometry x="60" width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-26" value="192.168.20.0/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-26" value="192.168.20.0/24" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
           <mxGeometry x="120" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-27" value="LAN/SSID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-27" value="LAN/SSID" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
           <mxGeometry x="250" width="70" height="50" as="geometry">
             <mxRectangle width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-28" value="254" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-28" value="254" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
           <mxGeometry x="320" width="40" height="50" as="geometry">
             <mxRectangle width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-29" value="售楼部对于网络，对外使用限时验证" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-29" value="售楼部对于网络，对外使用限时验证" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
           <mxGeometry x="360" width="140" height="50" as="geometry">
             <mxRectangle width="140" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-47" value="Côte d&#39;Or" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-47" value="Côte d&#39;Or" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
           <mxGeometry x="500" width="110" height="50" as="geometry">
             <mxRectangle width="110" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-98" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-98" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=13;whiteSpace=wrap;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
           <mxGeometry y="200" width="610" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-99" value="VLAN 30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-99" value="VLAN 30" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
           <mxGeometry width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-100" value="保留网段" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-100" value="保留网段" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
           <mxGeometry x="60" width="60" height="50" as="geometry">
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-101" value="192.168.30.0/24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-101" value="192.168.30.0/24" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
           <mxGeometry x="120" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-102" value="LAN/SSID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-102" value="LAN/SSID" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
           <mxGeometry x="250" width="70" height="50" as="geometry">
             <mxRectangle width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-103" value="254" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-103" value="254" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
           <mxGeometry x="320" width="40" height="50" as="geometry">
             <mxRectangle width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-104" value="调试网段，不对外使用" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-104" value="调试网段，不对外使用" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
           <mxGeometry x="360" width="140" height="50" as="geometry">
             <mxRectangle width="140" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-105" value="JNYWork" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-105" value="JNYWork" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-98">
           <mxGeometry x="500" width="110" height="50" as="geometry">
             <mxRectangle width="110" height="50" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-106" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
