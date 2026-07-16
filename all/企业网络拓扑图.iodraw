@@ -8,7 +8,10 @@
           <mxGeometry x="40" y="290" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-14" value="Internet" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#080808;" vertex="1" parent="1">
-          <mxGeometry x="50" y="300" width="90" height="50" as="geometry" />
+          <mxGeometry x="40" y="380" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="scIHF0ghyBfTpFaUqiPM-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
