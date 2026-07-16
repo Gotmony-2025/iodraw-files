@@ -92,7 +92,7 @@
         <mxCell id="scIHF0ghyBfTpFaUqiPM-41" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;TL-XAP3001GP&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite_dish;" vertex="1" parent="1">
           <mxGeometry x="544.1600000000001" y="110" width="40.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="scIHF0ghyBfTpFaUqiPM-47" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="scIHF0ghyBfTpFaUqiPM-47" value="售楼部2楼" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
