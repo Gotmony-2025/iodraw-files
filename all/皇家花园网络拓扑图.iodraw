@@ -99,6 +99,9 @@
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="scIHF0ghyBfTpFaUqiPM-25" target="scIHF0ghyBfTpFaUqiPM-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IUhcc6Z56Rzezg3WKJFh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="scIHF0ghyBfTpFaUqiPM-25" target="scIHF0ghyBfTpFaUqiPM-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-25" value="TL-SG2008MP-9F" style="fontColor=#0066CC;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" parent="1" vertex="1">
           <mxGeometry x="857" y="430" width="100" height="30" as="geometry" />
         </mxCell>
@@ -193,6 +196,9 @@
         </mxCell>
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-30" value="9楼&lt;div&gt;办公室打印机&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="959" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IUhcc6Z56Rzezg3WKJFh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="scIHF0ghyBfTpFaUqiPM-25" target="IUhcc6Z56Rzezg3WKJFh-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
