@@ -172,7 +172,7 @@
         <mxCell id="IUhcc6Z56Rzezg3WKJFh-21" value="1楼&lt;div&gt;售楼部打印机&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="420" y="690" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IUhcc6Z56Rzezg3WKJFh-22" value="负1楼&lt;div&gt;监控服务器&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+        <mxCell id="IUhcc6Z56Rzezg3WKJFh-22" value="2楼&lt;div&gt;售楼部1楼AP&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="579.04" y="690" width="62.09" height="30" as="geometry" />
         </mxCell>
       </root>
