@@ -241,7 +241,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-11" value="设备管理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-9">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -269,12 +269,12 @@
         <mxCell id="NYzqBl5BG8z7ZOTjlOmk-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
           <mxGeometry y="80" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-17" value="VLAN 10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-18" value="公司网络" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-16">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -302,7 +302,7 @@
         <mxCell id="NYzqBl5BG8z7ZOTjlOmk-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
           <mxGeometry y="120" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-24" value="VLAN 20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-23">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -335,7 +335,7 @@
         <mxCell id="NYzqBl5BG8z7ZOTjlOmk-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
           <mxGeometry y="160" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-31" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-30">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-31" value="VLAN 30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-30">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -368,7 +368,7 @@
         <mxCell id="NYzqBl5BG8z7ZOTjlOmk-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-1">
           <mxGeometry y="200" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-38" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-37">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-38" value="VLAN 40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NYzqBl5BG8z7ZOTjlOmk-37">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
