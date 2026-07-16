@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="340" />
-              <mxPoint x="1007" y="340" />
+              <mxPoint x="907" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -101,7 +101,7 @@
         <mxCell id="scIHF0ghyBfTpFaUqiPM-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="scIHF0ghyBfTpFaUqiPM-25" target="scIHF0ghyBfTpFaUqiPM-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IUhcc6Z56Rzezg3WKJFh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="scIHF0ghyBfTpFaUqiPM-25" target="IUhcc6Z56Rzezg3WKJFh-6">
+        <mxCell id="IUhcc6Z56Rzezg3WKJFh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="scIHF0ghyBfTpFaUqiPM-25" target="IUhcc6Z56Rzezg3WKJFh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-25" value="TL-SG2008MP-9F" style="fontColor=#0066CC;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" parent="1" vertex="1">
