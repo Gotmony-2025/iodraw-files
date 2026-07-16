@@ -31,7 +31,11 @@
           <mxGeometry x="170" y="250" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="scIHF0ghyBfTpFaUqiPM-19" target="scIHF0ghyBfTpFaUqiPM-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-19" value="Optical modem" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" parent="1" vertex="1">
           <mxGeometry x="170" y="60" width="100" height="30" as="geometry" />
@@ -84,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-25" value="TL-SG2008MP-9F" style="fontColor=#0066CC;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" parent="1" vertex="1">
-          <mxGeometry x="710" y="690" width="100" height="30" as="geometry" />
+          <mxGeometry x="827" y="440" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="scIHF0ghyBfTpFaUqiPM-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;TL-XAP3007GC&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" parent="1" vertex="1">
           <mxGeometry x="531.1800000000001" y="608" width="58.82" height="50" as="geometry" />
