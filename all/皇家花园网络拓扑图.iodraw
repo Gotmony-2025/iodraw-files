@@ -394,7 +394,7 @@
             <mxRectangle width="140" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-105" value="GuineaWork" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" parent="NYzqBl5BG8z7ZOTjlOmk-98" vertex="1">
+        <mxCell id="NYzqBl5BG8z7ZOTjlOmk-105" value="RGWork" style="shape=partialRectangle;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Lucida Console;fontSize=13;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" parent="NYzqBl5BG8z7ZOTjlOmk-98" vertex="1">
           <mxGeometry x="500" width="110" height="50" as="geometry">
             <mxRectangle width="110" height="50" as="alternateBounds" />
           </mxGeometry>
